@@ -80,8 +80,7 @@ endmodule
 
 # Output Waveform
 
-<img width="1556" height="784" alt="Screenshot 2025-09-24 102942" src="https://github.com/user-attachments/assets/79c38564-6955-49d1-a2f7-24bf8a0191c9" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a664e079-7ed5-4281-9f44-485eaf738a95" />
 
 
 # ROM
@@ -140,7 +139,7 @@ endmodule
 
 # output Waveform
 
-<img width="1565" height="812" alt="image" src="https://github.com/user-attachments/assets/b6893d87-c24e-485f-9f3e-8ffae6958a10" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75b1cf20-0853-4fd3-93ca-616b1a6f7dfc" />
 
 
  # FIFO
